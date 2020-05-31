@@ -1,3 +1,3 @@
 # Agent Based Games Calcuators
-* Replicator dynamics, showing evolution steps, for any two player game.
-* Gale Shapely algorithm for the stable marriage problem.
+* Replicator Dynamics: Shows evolutionary steps for replicator dynamics, for any two player game.
+* Deffered Acceptance: Gale Shapely algorithm for the stable marriage problem.
